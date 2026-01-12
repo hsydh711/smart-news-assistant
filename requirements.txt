@@ -1,6 +1,0 @@
-flask>=3.0.0
-flask-cors>=4.0.0
-langchain>=0.3.0
-langchain-openai>=0.2.0
-langgraph>=0.2.0
-coze-coding-dev-sdk>=1.0.0
